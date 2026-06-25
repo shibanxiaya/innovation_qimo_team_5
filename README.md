@@ -2,7 +2,7 @@
 
 ## 项目简介
 
-**今日份发疯** 是一款情绪视觉化卡片生成器，基于 Flutter 跨平台开发，支持 Android、iOS、Web、Windows 多端运行。核心流程：用户选择心情 Emoji → AI 生成"发疯语录" → 搭配粒子动画 & 毛玻璃渐变背景 → 生成卡片 → 保存分享。
+**今日份发疯** 是一款情绪视觉化卡片生成器，基于 Flutter 跨平台开发，支持 Android、Web、Windows 多端运行。核心流程：用户选择心情 Emoji → AI 生成"发疯语录" → 搭配粒子动画 & 毛玻璃渐变背景 → 生成卡片 → 保存分享。
 
 - **技术栈**: Flutter 3.12.1 / Dart / Provider / sqflite / Dio / DeepSeek API / fl_chart
 - **设计规范**: Material 3
